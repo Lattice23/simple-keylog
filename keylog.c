@@ -48,7 +48,6 @@ int main() {
                     {
                         fprintf(pFile, "\n");
                     }
-                    printf("%c", (char)i);
                     fclose(pFile);
                 }
 
